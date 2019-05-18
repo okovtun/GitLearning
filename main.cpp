@@ -1,8 +1,8 @@
 #include<iostream>
 using namespace std;
 
-void FillRand(int Arr[], const int n);
-void Print(int Arr[], const int n);
+void FillRand(int Arr[], const int n);	//Заполнение массива случайными числами
+void Print(int Arr[], const int n);		//Вывод массива на экран
 
 void main()
 {
